@@ -1,0 +1,9 @@
+{
+  "name": "mongoose-helper",
+  "version": "0.0.1",
+  "main": "mongooseHelper.js",
+  "repository" : {
+	"type" : "git",
+    "url" : "git://192.168.1.10/mongoose-helper.git"
+  }
+}
